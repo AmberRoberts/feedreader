@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-* [Project Overview](#Project Overview)
-* [Why this Project?](#Why this Project?)
-* [What I Learned](#What I Learned)
-* [How to Run Tests](#How To Run Tests)
-* [Resources I Used for Reference](#Resources I Used for Reference)
+* [Project Overview](https://github.com/AmberRoberts/feedreader#project-overview)
+* [Why this Project?](https://github.com/AmberRoberts/feedreader#why-this-project)
+* [What I Learned](https://github.com/AmberRoberts/feedreader#what-i-learned)
+* [How to Run Tests](https://github.com/AmberRoberts/feedreader#how-to-run-tests)
+* [Resources I Used for Reference](https://github.com/AmberRoberts/feedreader#resources-i-used-for-reference)
 
 # Project Overview
 
