@@ -60,9 +60,9 @@ $(
       });
 
       it("should display at least one .entry element within .feed", function() {
-        let feed = document.querySelector(".feed");
+        let feed = $(".feed .entry");
         // checks to see that at least one entry exists in the feed
-        expect(feed.childElementCount).toBeGreaterThan(0);
+        expect(feed.length).toBeGreaterThan(0);
       });
     });
 
