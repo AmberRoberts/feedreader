@@ -53,8 +53,8 @@ Open the index.html file in your browser and the tests will run automatically. Y
 * Slack channels for Project 4, FEND, and explainittomelikeim5, and advice provided by the first project review
 * [Jasmine Cheatsheet](https://devhints.io/jasmine)
 * [Jasmine Beginner Test Setup Video](https://www.youtube.com/watch?v=g0q8pCsCB4o&list=PL_noPv5wmuO9op-OQ22SbHcqFGGHA6iIZ&index=2)
+* [Descendant Selectors](https://api.jquery.com/descendant-selector/)
 * Comparing feeds reference for obtaining HTML:
   * [jQuery documentation](http://api.jquery.com/html/)
   * [Go make Things Vanilla JS HTML walkthrough](https://gomakethings.com/two-ways-to-get-and-set-html-content-with-vanilla-javascript/)
   * [StackOverflow thread re: testing elements](https://stackoverflow.com/questions/42916548/using-karma-jasmine-how-to-test-do-elements-and-javascript)
-  * [Descendant Selectors](https://api.jquery.com/descendant-selector/)
